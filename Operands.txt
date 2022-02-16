@@ -1,0 +1,11 @@
+let result = 5 > 3;
+console.log(result); // хранение переменной
+
+/*
+console.log(3 > 2); // > больше
+console.log(4 < 5); // < меньше
+console.log(3 == 3); // == равно
+console.log(5 != 3); // != не равно 
+console.log(6 >= 5); // >= больше или равно
+console.log(5 <= 4); // <= меньше или равно
+*/
