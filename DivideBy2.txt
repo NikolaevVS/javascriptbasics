@@ -1,0 +1,19 @@
+let a = prompt('Введите число'); // Сложный код
+let result = a % 2;
+if (result == 0) {
+	console.log('Число чётное');
+}
+else {
+  console.log('Число не чётное');
+}
+
+
+/*
+let a = prompt('Введите число'); // Лёгкий код
+if (a % 2 == 0) {
+	console.log('Число чётное');
+}
+else {
+  console.log('Число не чётное');
+}
+*/
