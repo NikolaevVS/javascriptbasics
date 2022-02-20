@@ -1,1 +1,1 @@
-whatishigher
+My first javascript experience.
